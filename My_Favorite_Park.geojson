@@ -1,8 +1,0 @@
-{
-"type": "FeatureCollection",
-"name": "My_Favorite_Park",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Name": "aston", "Some": null }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -82.561181131459591, 35.591126046459955 ], [ -82.559068438804516, 35.591104266123303 ], [ -82.559155560151112, 35.589753885250992 ], [ -82.561159351122939, 35.589557862221135 ], [ -82.561181131459591, 35.591126046459955 ] ] ] ] } }
-]
-}
